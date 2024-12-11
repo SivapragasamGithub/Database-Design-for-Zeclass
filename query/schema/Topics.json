@@ -1,0 +1,6 @@
+{
+  "_id": "topic_id",
+  "name": "JavaScript Basics",
+  "date": "2020-10-15",
+  "tasks": ["task_id1", "task_id2"]
+}

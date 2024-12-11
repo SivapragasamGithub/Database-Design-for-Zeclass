@@ -1,0 +1,8 @@
+{
+  "_id": "user_id",
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "role": "student",
+  "mentor_id": "mentor_id",
+  "tasks_submitted": ["task1", "task2"]
+}

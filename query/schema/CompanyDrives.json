@@ -1,0 +1,6 @@
+{
+  "_id": "drive_id",
+  "company_name": "Google",
+  "date": "2020-10-25",
+  "eligible_students": ["user_id1", "user_id2"]
+}

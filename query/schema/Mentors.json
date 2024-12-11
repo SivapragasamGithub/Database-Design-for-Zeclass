@@ -1,0 +1,6 @@
+{
+    "_id": "mentor_id",
+    "name": "Jane Smith",
+    "mentees": ["user_id1", "user_id2", "user_id3"]
+  }
+  
